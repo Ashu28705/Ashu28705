@@ -1,5 +1,10 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=000000&width=650&lines=Hi%2C+my+name+is+Ashutosh+Kamboya;Full+Stack+Developer;Machine+Learning+Enthusiast;)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi%2C+my+name+is+Ashutosh+Kamboya;Full+Stack+Developer;Machine+Learning+Enthusiast;Learning+Data+Science" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+</p>
 
 # Hi 👋 I'm Ashutosh Kamboya
 
