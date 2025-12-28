@@ -7,6 +7,7 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashu28705&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Ashu28705&style=for-the-badge)
 
 # Hi 👋 I'm Ashutosh Kamboya
 
