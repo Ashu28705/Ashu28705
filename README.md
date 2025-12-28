@@ -70,16 +70,24 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   </a>
+
   <a href="https://www.phpmyadmin.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/PhpMyAdmin_logo.svg" width="40"/>
   </a>
+
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
+  </a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   </a>
+
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
   </a>
 </p>
+
 ---
 
 ## 📂 Projects
