@@ -5,11 +5,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=Ashu28705&label=Profile%20Views&color=0e75b6&style=flat)
 
 # Hi 👋 I'm Ashutosh Kamboya
 
-🎓 Computer Engineering Student  
-💻 Full Stack Developer | Machine Learning Enthusiast  
+🎓 Bachelor's in Information and Communication Technology, Adani University  
+💻 Full Stack Developer | Machine Learning & Data Science Entusiasts
 🚀 Hackathon Participant | Problem Solver  
 
 ---
@@ -47,9 +48,8 @@ Git, GitHub, XAMPP, VS Code, Sublime, Jupyter Notebook
 
 ## 📂 Projects
 - 🔹 Event Booking Website (PHP + MySQL)
-- 🔹 Machine Learning Case Studies (Wine Dataset, Random Forest)
-- 🔹 Hackathon Project – *InteliHack*
-- 🔹 Academic Practical Repositories (CN, ML, DM)
+- 🔹 Machine Learning Case Studies (Credit Score model, Disease prediction)
+- 🔹 Hackathon Project – *odooXAdaniuniversity*
 
 👉 Explore my repositories to see more!
 
