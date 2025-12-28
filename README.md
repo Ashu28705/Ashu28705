@@ -113,8 +113,20 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **ashutoshkamboya@gmail.com**
-- 💼 LinkedIn: [Ashutosh Kamboya](https://www.linkedin.com/in/ashutosh-kamboya-0297bb374/)
+<p>
+  <a href="mailto:ashutoshkamboya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ashutosh-kamboya-0297bb374/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/ashutoshkamboya?igsh=M2ZwamVzdjVoa2sy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
