@@ -57,6 +57,8 @@ Git, GitHub, XAMPP, VS Code, Sublime, Jupyter Notebook
 ---
 
 ## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ashu28705)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashu28705&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu28705&layout=compact&cache_seconds=1800)
