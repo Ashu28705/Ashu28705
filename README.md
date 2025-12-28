@@ -69,8 +69,9 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/XML_logo.svg" width="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="40"/>
+</a>
+
 </p>
 
 ### 🗄️ Databases & Tools
