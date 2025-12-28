@@ -6,7 +6,9 @@
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 </p>
 
+<p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashu28705&label=Profile%20Views&color=0e75b6&style=flat)
+</p>
 
 # Hi 👋 I'm Ashutosh Kamboya
 
@@ -113,7 +115,7 @@
 ---
 
 ## 📫 Connect With Me
-<p>
+<p align="center">
   <a href="mailto:ashutoshkamboya@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
