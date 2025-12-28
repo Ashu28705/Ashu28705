@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Hackathon+Coder)
+
 # Hi 👋 I'm Ashutosh Kamboya
 
 🎓 Computer Engineering Student  
@@ -33,7 +35,7 @@ Python, PHP
 MySQL  
 
 **Tools & Platforms:**  
-Git, GitHub, XAMPP, VS Code  
+Git, GitHub, XAMPP, VS Code, Sublime, Jupyter Notebook 
 
 ---
 
