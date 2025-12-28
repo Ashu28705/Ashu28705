@@ -11,7 +11,7 @@
 # Hi 👋 I'm Ashutosh Kamboya
 
 🎓 Bachelor's in Information and Communication Technology, Adani University  
-💻 Full Stack Developer | Machine Learning & Data Science Entusiasts
+💻 Full Stack Developer | Machine Learning & Data Science Entusiasts  
 🚀 Hackathon Participant | Problem Solver  
 
 ---
