@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=000000&width=650&lines=Hi%2C+my+name+is+Ashutosh+Kamboya;Full+Stack+Developer;Machine+Learning+Enthusiast;Hackathon+Coder)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=000000&width=650&lines=Hi%2C+my+name+is+Ashutosh+Kamboya;Full+Stack+Developer;Machine+Learning+Enthusiast;)
 
 
 # Hi 👋 I'm Ashutosh Kamboya
