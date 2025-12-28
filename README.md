@@ -26,24 +26,27 @@
 ---
 
 ## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-blue)
+![C++](https://img.shields.io/badge/C++-00599C)
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![MATLAB](https://img.shields.io/badge/MATLAB-red)
+
+### 🌐 Web Technologies
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Python](https://img.shields.io/badge/Python-blue)
 ![PHP](https://img.shields.io/badge/PHP-purple)
+![React](https://img.shields.io/badge/React-61DAFB)
+
+### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-lightblue)
-
-**Frontend:**  
-HTML, CSS, JavaScript  
-
-**Backend:**  
-Python, PHP  
-
-**Database:**  
-MySQL  
-
-**Tools & Platforms:**  
-Git, GitHub, XAMPP, VS Code, Sublime, Jupyter Notebook 
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-orange)
+![Git](https://img.shields.io/badge/Git-black)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![XAMPP](https://img.shields.io/badge/XAMPP-orange)
 
 ---
 
@@ -53,14 +56,6 @@ Git, GitHub, XAMPP, VS Code, Sublime, Jupyter Notebook
 - 🔹 Hackathon Project – *odooXAdaniuniversity*
 
 👉 Explore my repositories to see more!
-
----
-
-## 📊 GitHub Stats
-
-![Ashu28705's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashu28705&show_icons=true&theme=default&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu28705&layout=compact&cache_seconds=1800)
 
 ---
 
