@@ -3,7 +3,23 @@
 <!-- Animated Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there%2C+I'm+Ashutosh+Kamboya+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;ML+Enthusiast+%F0%9F%A4%96;Aspiring+Data+Analyst+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<br/>
+<br><br>
+
+<!-- Option 1: Coding Animation -->
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="450"/>
+
+<br><br>
+
+<!-- Option 2: Professional Developer GIF -->
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+<br><br>
+
+### 🚀 Full Stack Developer • 🤖 Machine Learning Enthusiast • 📊 Aspiring Data Analyst • 🌐 Open Source Contributor
+
+💻 Building Scalable Applications • 📈 Turning Data into Insights • 🌱 Continuous Learner
+
+<br>
 
 <!-- Profile Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Ashu28705&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/Ashu28705)
