@@ -1,1 +1,12 @@
+name: Generate Contribution Dragon
 
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test Workflow
+        run: echo "Workflow is working!"
