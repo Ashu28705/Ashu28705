@@ -98,6 +98,13 @@
 </p>
 
 ---
+## 🐉 Contribution Dragon
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashu28705/Ashu28705/output/github-contribution-grid-snake-dark.svg" alt="Contribution Dragon" />
+</p>
+
+---
 
 ## 🤝 Let's Connect
 
